@@ -1,4 +1,2 @@
 # ymav
-yendaro mahanubuvulu andariki vandanamulu 
-
-# Merge with Rishis.app
+yendaro mahanubuvulu andariki vandanamulu. app for beatiful souls.
